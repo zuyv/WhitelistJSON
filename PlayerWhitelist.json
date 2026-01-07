@@ -35,55 +35,7 @@
           "color": [200, 54, 78]
         }
       ]
-    },
-    "9701608749": {
-      "userId": "9701608749",
-      "hash": "7e6f94acd19d0ff760c566c4feaf56e65d6a8c803aa578c86c6015894996746941ae044c4add405b6531e638892a9089c2d4083aff0a4e72cbac9a6c9f8a8e33",
-      "attackable": false,
-      "level": 2,
-      "tags": [
-        {
-          "text": "ONYX OWNER",
-          "color": [200, 54, 78]
-        }
-      ]
-    },
-    "10036460106": {
-      "userId": "10036460106",
-      "hash": "c98e0a8ed8ccb31dd9adc012ef367e613a9329716e8509b2d0e35480784c721a5012ab770b70564f281d5367865268ee964b1bf1c60b20b8607d5cf2378b875c",
-      "attackable": false,
-      "level": 2,
-      "tags": [
-        {
-          "text": "ONYX OWNER",
-          "color": [35, 200, 25]
-        }
-      ]
-    },
-    "10036479139": {
-      "userId": "10036479139",
-      "hash": "9576da0e77cf5680d20be999ac25851add22a3f02c3cba6b6b02569b936a5056de212fa2833a504992e60ee0d8568aa351ae11b255365e6ab4ee4c4fe064322f",
-      "attackable": false,
-      "level": 2,
-      "tags": [
-        {
-          "text": "ONYX OWNER",
-          "color": [15, 150, 99]
-        }
-      ]
-    },
-    "10070250709": {
-      "userId": "10070250709",
-      "hash": "3b1c1fe13643b1283d42a9456cb57e5eff53caa0317f737018012686d27ae578225710722bf117913a0758c909478568b288cf0dd76fc0600a854106e01131d8",
-      "attackable": false,
-      "level": 2,
-      "tags": [
-        {
-          "text": "ONYX OWNER",
-          "color": [15, 150, 99]
-        }
-      ]
-    },
+    }
   },
   "WhitelistedTags": {
     "7756737656": [
@@ -103,31 +55,7 @@
         "text": "ONYX OWNER",
         "color": [200, 54, 78]
       }
-    ],
-    "9701608749": [
-      {
-        "text": "ONYX OWNER",
-        "color": [200, 54, 78]
-      }
-    ],
-    "10036460106": [
-      {
-        "text": "ONYX OWNER",
-        "color": [35, 200, 25]
-      }
-    ],
-    "10036479139": [
-      {
-        "text": "ONYX OWNER",
-        "color": [15, 150, 99]
-      }
-    ],
-    "10070250709": [
-      {
-        "text": "ONYX OWNER",
-        "color": [15, 150, 99]
-      }
-    ],
+    ]
   },
   "BlacklistedUsers": {},
   "Announcement": {
