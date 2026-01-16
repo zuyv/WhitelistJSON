@@ -12,9 +12,21 @@
         }
       ]
     },
-    "503667525": {
-      "userId": "503667525",
-      "hash": "28c05066ce60a1761f316af3b7cebc974d834e63ff27710860e13c1551f0a305604bcdd609b6587bddaf17ea499c5f178378f729cd1406ff3cd0c4ead8906bda",
+    "": {
+      "userId": "",
+      "hash": "",
+      "attackable": false,
+      "level": 2,
+      "tags": [
+        {
+          "text": "RAIN OWNER",
+          "color": [78, 200, 54]
+        }
+      ]
+    },
+        "": {
+      "userId": "",
+      "hash": "",
       "attackable": false,
       "level": 2,
       "tags": [
